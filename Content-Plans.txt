@@ -3,6 +3,7 @@ Content Planning
   * ES6
   * Javascript Framework
     ^ Vue
+    ^ React
 - Fundamental Data Structure
 - PHP Framework
    ^ Laravel
